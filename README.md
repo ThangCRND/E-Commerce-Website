@@ -8,7 +8,7 @@
 | Đỗ Quang Thắng          | 20521893 |
 | Nguyễn Đoàn Thiên Cung  | 20521178 |
 
---Các tính năng thực hiện tích hợp trên website : 
+---Các tính năng thực hiện tích hợp trên website : 
 
 - Quản lý Cơ sở dữ liệu (Database Management): Phát triển và duy trì cơ sở dữ liệu sản phẩm, khách hàng, đơn đặt hàng, đảm bảo hiệu suất và tính nhất quán.
 - Xử lý Giao dịch (Transaction Processing): Thiết lập và tích hợp tính năng thanh toán để xử lý giao dịch .
