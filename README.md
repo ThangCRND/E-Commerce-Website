@@ -6,7 +6,7 @@
 | Tên                     | MSSV     |
 |-------------------------|----------|
 | Đỗ Quang Thắng          | 20521893 |
-| Nguyễn Đoàn Thiên Cung  | 20521178 |
+
 
 ---Các tính năng thực hiện tích hợp trên website : 
 
